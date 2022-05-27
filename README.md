@@ -1,3 +1,6 @@
 # hello-world
-this is my first git repository
-I am a new programmer. I am interested in CTF competitions.
+- 👋 Hi, I’m @robanic
+- 👀 I’m interested in Zero Trust
+- 🌱 I’m currently learning Azure
+- 💞️ I’m looking to collaborate on microsegmentation
+- 📫 How to reach me <robanic@yahoo.com>
